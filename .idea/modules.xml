@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/camel-converter/camel-converter.iml" filepath="$PROJECT_DIR$/camel-converter/camel-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/camel-transformer/camel-transformer.iml" filepath="$PROJECT_DIR$/camel-transformer/camel-transformer.iml" />
+    </modules>
+  </component>
+</project>
